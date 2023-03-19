@@ -1,5 +1,5 @@
 ﻿using tpmodul5_1302213007;
-String nama = Console.ReadLine();
+String Nama = Console.ReadLine();
 HaloGeneric hg = new HaloGeneric();
 hg.SapaUser(Nama);
 
